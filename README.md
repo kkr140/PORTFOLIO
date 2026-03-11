@@ -40,7 +40,7 @@ To get a local copy up and running, follow these simple steps.
 
 ## 📸 Preview
 
-![Portfolio Preview](public/images/1.png)
+![Portfolio Preview](public/images/11.png)
 
 ## 📄 License
 
