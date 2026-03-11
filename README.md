@@ -1,16 +1,47 @@
-# My Portfolio Wesbite - Overview 🚀
+# Kiran's Portfolio 🚀
 
-This repository contains the open source version of my porfolio website.
-Do check it out!
+Welcome to the open-source repository for my personal portfolio website! I am a Video Editor and Motion Graphics Designer, and this site showcases my work, skills, and experience with a dynamic, 3D interactive experience.
 
-## Instructions 🛠️
+## 🛠️ Built With
 
-I have modified the gsap club plugins with the trial plugins, but with the trial plugin you cannot host it🔴. So for Club plugins, Check out here: https://gsap.com/docs/v3/Installation/
+This project relies on modern web technologies to create its immersive feel:
+- **React** & **TypeScript**
+- **Three.js** & **React Three Fiber** (WebGL 3D rendering)
+- **GSAP** (Animations)
+- **Vite** (Build tool)
+- **CSS3** & **HTML5**
 
-**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
+## 🚀 Getting Started
 
-![Portfolio-Preview](public/images/preview.png)
+To get a local copy up and running, follow these simple steps.
 
-## License
+### Prerequisites
 
-This project is open source and available under the [MIT License](LICENSE).
+- Node.js (v16 or higher recommended)
+- **npm** or **yarn**
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/kkr140/PORTFOLIO.git
+   ```
+2. Install dependencies
+   ```sh
+   npm install
+   ```
+3. Run the development server
+   ```sh
+   npm run dev
+   ```
+
+> [!WARNING]
+> This project currently uses GSAP Trial plugins for local development, which are not permitted for public hosting. To deploy the project to production, you must use an official GSAP Club license. For more details, see [GSAP Installation Docs](https://gsap.com/docs/v3/Installation/).
+
+## 📸 Preview
+
+![Portfolio Preview](public/images/preview.png)
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
